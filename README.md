@@ -19,6 +19,9 @@ Resource of web-based testing tools
 
 ## 💻 General & Multipurpose
 
+JSON syntax validation for manifest and API response samples
+- https://bestjson.com/json-validator
+
 Markup Validation
 - https://validator.w3.org
 
